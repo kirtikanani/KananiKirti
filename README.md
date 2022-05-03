@@ -24,7 +24,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h4>
-connect me on :-
+connect with me on :-
 <h4>
   
 [![upwork](https://img.shields.io/badge/upwork_profile-0012?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.upwork.com/freelancers/~01b2804f8f794a5361)
