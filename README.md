@@ -28,7 +28,8 @@ connect me on :-
 <h4>
   
 [![upwork](https://img.shields.io/badge/upwork_profile-0012?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.upwork.com/freelancers/~01b2804f8f794a5361)
+[![freelancer](https://img.shields.io/badge/freelancer-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/evadevlopers)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanani-kirti-5210b863/)
 [![skype](https://img.shields.io/badge/skype-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( kirti.kanani2 )
-[![freelancer](https://img.shields.io/badge/freelancer-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/evadevlopers)
+
 
